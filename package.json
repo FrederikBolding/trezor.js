@@ -21,8 +21,7 @@
     "bitcoin",
     "wallet"
   ],
-  "browser": "lib/index-browser.js",
-  "main": "lib/index-node.js",
+  "main": "lib/index.js",
   "babel": {
     "presets": [
       "env"
